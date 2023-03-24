@@ -1,3 +1,4 @@
+/*
 const page = document.getElementById('buttonDiv');
 const selectedClassName = 'current';
 const presetButtonColors = ['#3aa757', '#e8453c', '#f9bb2d', '#4688f1'];
@@ -45,3 +46,4 @@ function constructOptions(buttonColors) {
 
 // Initialize the page by constructing the color options
 constructOptions(presetButtonColors);
+*/
